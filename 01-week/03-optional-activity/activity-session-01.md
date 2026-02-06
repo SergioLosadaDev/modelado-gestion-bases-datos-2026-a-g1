@@ -6,4 +6,4 @@
 
 ### ¿Qué tipo de SGBD (relacional o NoSQL) parece más adecuado para este contexto y por qué?
 
-- Es mas adecuado un SGBD relacional, ya que la tenemos varias entidades y tambien
+- Es mas adecuado un SGBD relacional por que en el escenario podemos identificar 3 entidades que estan relacionadas (Estudiantes, asignaturas, notas) y este comportamiento se puede modelar de manera optima con bases de datos relacionales.
